@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "845009386191",
+    "firebase_url": "https://taqtest-67216.firebaseio.com",
+    "project_id": "taqtest-67216",
+    "storage_bucket": "taqtest-67216.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:845009386191:android:8e812fbabca4e7b0",
+        "android_client_info": {
+          "package_name": "com.example.admin.taqtest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "845009386191-v5g7oltt5jrn2aatustkco6epgdapghr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1_83jeESR-3gUUA_GV5Jt7ZLAw-B4pkI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

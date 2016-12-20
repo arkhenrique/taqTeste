@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- FONT FAMILIES -->
+    <string name="font_family_primary">MavenPro</string>
+
+    <!-- FONT WEIGHTS -->
+    <string name="font_weight_black">-Black</string>
+    <string name="font_weight_bold">-Bold</string>
+    <string name="font_weight_medium">-Medium</string>
+    <string name="font_weight_regular">-Regular</string>
+
+    <!-- FONT FILE EXTENSION -->
+    <string name="font_file_extension">ttf</string>
+    
+    <string name="typeface_futura">fonts/Futura.ttf</string>
+</resources>
